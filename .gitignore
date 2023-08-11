@@ -25,3 +25,5 @@ cache
 
 # pycharm
 .idea
+.env
+.python-version
